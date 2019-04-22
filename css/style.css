@@ -220,3 +220,11 @@ ul.reasons {
   padding: 7px;
   }
   
+  /*Services Page*/
+
+ 
+   body > ul {
+     margin: auto;
+     width: 20%;
+ 
+   }
